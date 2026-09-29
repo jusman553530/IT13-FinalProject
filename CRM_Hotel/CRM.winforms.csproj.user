@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AdminForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminPlaceHolder.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="BulkPriceForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ChangePasswordForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CheckInOutControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="CollectPaymentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CustomerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CustomerRetentionControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="DashboardController.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="FeedbackController.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GuestEditForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GuestHistoryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InquiryCard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="InquiryControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManageDiscountsControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ManageGuestsControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ManageRoomsControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ManageUsersControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="NewInquiryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ReservationDetailForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ReservationManagementControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ResetPasswordForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RevenueReportsController.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="RoomEditForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RoomForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RoomManagementControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UI\RoundedButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="UI\RoundedPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="UserEditForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

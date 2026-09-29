@@ -1,0 +1,1091 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE1697B3-B91E-326A-4A48-953415117BB3}|CRM_Hotel\\CRM.winforms.csproj|c:\\users\\harisss\\source\\repos\\crm_hotel\\crm_hotel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE1697B3-B91E-326A-4A48-953415117BB3}|CRM_Hotel\\CRM.winforms.csproj|solutionrelative:crm_hotel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6983B9-A8ED-E7CA-70E6-CB5657ECB2CA}|CRM.infrastructure\\CRM.infrastructure.csproj|c:\\users\\harisss\\source\\repos\\crm_hotel\\crm.infrastructure\\hoteldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B6983B9-A8ED-E7CA-70E6-CB5657ECB2CA}|CRM.infrastructure\\CRM.infrastructure.csproj|solutionrelative:crm.infrastructure\\hoteldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE1697B3-B91E-326A-4A48-953415117BB3}|CRM_Hotel\\CRM.winforms.csproj|c:\\users\\harisss\\source\\repos\\crm_hotel\\crm_hotel\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE1697B3-B91E-326A-4A48-953415117BB3}|CRM_Hotel\\CRM.winforms.csproj|solutionrelative:crm_hotel\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6983B9-A8ED-E7CA-70E6-CB5657ECB2CA}|CRM.infrastructure\\CRM.infrastructure.csproj|c:\\users\\harisss\\source\\repos\\crm_hotel\\crm.infrastructure\\crm.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8B6983B9-A8ED-E7CA-70E6-CB5657ECB2CA}|CRM.infrastructure\\CRM.infrastructure.csproj|solutionrelative:crm.infrastructure\\crm.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE1697B3-B91E-326A-4A48-953415117BB3}|CRM_Hotel\\CRM.winforms.csproj|c:\\users\\harisss\\source\\repos\\crm_hotel\\crm_hotel\\usereditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE1697B3-B91E-326A-4A48-953415117BB3}|CRM_Hotel\\CRM.winforms.csproj|solutionrelative:crm_hotel\\usereditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE1697B3-B91E-326A-4A48-953415117BB3}|CRM_Hotel\\CRM.winforms.csproj|c:\\users\\harisss\\source\\repos\\crm_hotel\\crm_hotel\\manageuserscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE1697B3-B91E-326A-4A48-953415117BB3}|CRM_Hotel\\CRM.winforms.csproj|solutionrelative:crm_hotel\\manageuserscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE1697B3-B91E-326A-4A48-953415117BB3}|CRM_Hotel\\CRM.winforms.csproj|c:\\users\\harisss\\source\\repos\\crm_hotel\\crm_hotel\\usereditform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE1697B3-B91E-326A-4A48-953415117BB3}|CRM_Hotel\\CRM.winforms.csproj|solutionrelative:crm_hotel\\usereditform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE1697B3-B91E-326A-4A48-953415117BB3}|CRM_Hotel\\CRM.winforms.csproj|C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\crm_hotel\\usereditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FE1697B3-B91E-326A-4A48-953415117BB3}|CRM_Hotel\\CRM.winforms.csproj|solutionrelative:crm_hotel\\usereditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE1697B3-B91E-326A-4A48-953415117BB3}|CRM_Hotel\\CRM.winforms.csproj|c:\\users\\harisss\\source\\repos\\crm_hotel\\crm_hotel\\crm.winforms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FE1697B3-B91E-326A-4A48-953415117BB3}|CRM_Hotel\\CRM.winforms.csproj|solutionrelative:crm_hotel\\crm.winforms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE1697B3-B91E-326A-4A48-953415117BB3}|CRM_Hotel\\CRM.winforms.csproj|c:\\users\\harisss\\source\\repos\\crm_hotel\\crm_hotel\\adminform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE1697B3-B91E-326A-4A48-953415117BB3}|CRM_Hotel\\CRM.winforms.csproj|solutionrelative:crm_hotel\\adminform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE1697B3-B91E-326A-4A48-953415117BB3}|CRM_Hotel\\CRM.winforms.csproj|c:\\users\\harisss\\source\\repos\\crm_hotel\\crm_hotel\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE1697B3-B91E-326A-4A48-953415117BB3}|CRM_Hotel\\CRM.winforms.csproj|solutionrelative:crm_hotel\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE1697B3-B91E-326A-4A48-953415117BB3}|CRM_Hotel\\CRM.winforms.csproj|c:\\users\\harisss\\source\\repos\\crm_hotel\\crm_hotel\\ui\\roundedpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE1697B3-B91E-326A-4A48-953415117BB3}|CRM_Hotel\\CRM.winforms.csproj|solutionrelative:crm_hotel\\ui\\roundedpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE1697B3-B91E-326A-4A48-953415117BB3}|CRM_Hotel\\CRM.winforms.csproj|c:\\users\\harisss\\source\\repos\\crm_hotel\\crm_hotel\\ui\\roundedbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE1697B3-B91E-326A-4A48-953415117BB3}|CRM_Hotel\\CRM.winforms.csproj|solutionrelative:crm_hotel\\ui\\roundedbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE1697B3-B91E-326A-4A48-953415117BB3}|CRM_Hotel\\CRM.winforms.csproj|c:\\users\\harisss\\source\\repos\\crm_hotel\\crm_hotel\\resetpasswordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE1697B3-B91E-326A-4A48-953415117BB3}|CRM_Hotel\\CRM.winforms.csproj|solutionrelative:crm_hotel\\resetpasswordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE3E46C7-3706-FC73-63EA-7D11757957A5}|CRM.domain\\CRM.domain.csproj|c:\\users\\harisss\\source\\repos\\crm_hotel\\crm.domain\\crm.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EE3E46C7-3706-FC73-63EA-7D11757957A5}|CRM.domain\\CRM.domain.csproj|solutionrelative:crm.domain\\crm.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE1697B3-B91E-326A-4A48-953415117BB3}|CRM_Hotel\\CRM.winforms.csproj|c:\\users\\harisss\\source\\repos\\crm_hotel\\crm_hotel\\roomeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE1697B3-B91E-326A-4A48-953415117BB3}|CRM_Hotel\\CRM.winforms.csproj|solutionrelative:crm_hotel\\roomeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE1697B3-B91E-326A-4A48-953415117BB3}|CRM_Hotel\\CRM.winforms.csproj|c:\\users\\harisss\\source\\repos\\crm_hotel\\crm_hotel\\roommanagementcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE1697B3-B91E-326A-4A48-953415117BB3}|CRM_Hotel\\CRM.winforms.csproj|solutionrelative:crm_hotel\\roommanagementcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE1697B3-B91E-326A-4A48-953415117BB3}|CRM_Hotel\\CRM.winforms.csproj|c:\\users\\harisss\\source\\repos\\crm_hotel\\crm_hotel\\roommanagementcontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE1697B3-B91E-326A-4A48-953415117BB3}|CRM_Hotel\\CRM.winforms.csproj|solutionrelative:crm_hotel\\roommanagementcontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE1697B3-B91E-326A-4A48-953415117BB3}|CRM_Hotel\\CRM.winforms.csproj|C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\crm_hotel\\roommanagementcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FE1697B3-B91E-326A-4A48-953415117BB3}|CRM_Hotel\\CRM.winforms.csproj|solutionrelative:crm_hotel\\roommanagementcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE1697B3-B91E-326A-4A48-953415117BB3}|CRM_Hotel\\CRM.winforms.csproj|c:\\users\\harisss\\source\\repos\\crm_hotel\\crm_hotel\\inquirycontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE1697B3-B91E-326A-4A48-953415117BB3}|CRM_Hotel\\CRM.winforms.csproj|solutionrelative:crm_hotel\\inquirycontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE1697B3-B91E-326A-4A48-953415117BB3}|CRM_Hotel\\CRM.winforms.csproj|c:\\users\\harisss\\source\\repos\\crm_hotel\\crm_hotel\\inquirycard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE1697B3-B91E-326A-4A48-953415117BB3}|CRM_Hotel\\CRM.winforms.csproj|solutionrelative:crm_hotel\\inquirycard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE1697B3-B91E-326A-4A48-953415117BB3}|CRM_Hotel\\CRM.winforms.csproj|c:\\users\\harisss\\source\\repos\\crm_hotel\\crm_hotel\\guesthistoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE1697B3-B91E-326A-4A48-953415117BB3}|CRM_Hotel\\CRM.winforms.csproj|solutionrelative:crm_hotel\\guesthistoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE1697B3-B91E-326A-4A48-953415117BB3}|CRM_Hotel\\CRM.winforms.csproj|c:\\users\\harisss\\source\\repos\\crm_hotel\\crm_hotel\\collectpaymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE1697B3-B91E-326A-4A48-953415117BB3}|CRM_Hotel\\CRM.winforms.csproj|solutionrelative:crm_hotel\\collectpaymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE1697B3-B91E-326A-4A48-953415117BB3}|CRM_Hotel\\CRM.winforms.csproj|c:\\users\\harisss\\source\\repos\\crm_hotel\\crm_hotel\\collectpaymentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE1697B3-B91E-326A-4A48-953415117BB3}|CRM_Hotel\\CRM.winforms.csproj|solutionrelative:crm_hotel\\collectpaymentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE1697B3-B91E-326A-4A48-953415117BB3}|CRM_Hotel\\CRM.winforms.csproj|c:\\users\\harisss\\source\\repos\\crm_hotel\\crm_hotel\\checkinoutcontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE1697B3-B91E-326A-4A48-953415117BB3}|CRM_Hotel\\CRM.winforms.csproj|solutionrelative:crm_hotel\\checkinoutcontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE1697B3-B91E-326A-4A48-953415117BB3}|CRM_Hotel\\CRM.winforms.csproj|c:\\users\\harisss\\source\\repos\\crm_hotel\\crm_hotel\\checkinoutcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE1697B3-B91E-326A-4A48-953415117BB3}|CRM_Hotel\\CRM.winforms.csproj|solutionrelative:crm_hotel\\checkinoutcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE1697B3-B91E-326A-4A48-953415117BB3}|CRM_Hotel\\CRM.winforms.csproj|c:\\users\\harisss\\source\\repos\\crm_hotel\\crm_hotel\\bulkpriceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE1697B3-B91E-326A-4A48-953415117BB3}|CRM_Hotel\\CRM.winforms.csproj|solutionrelative:crm_hotel\\bulkpriceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE1697B3-B91E-326A-4A48-953415117BB3}|CRM_Hotel\\CRM.winforms.csproj|c:\\users\\harisss\\source\\repos\\crm_hotel\\crm_hotel\\bulkpriceform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE1697B3-B91E-326A-4A48-953415117BB3}|CRM_Hotel\\CRM.winforms.csproj|solutionrelative:crm_hotel\\bulkpriceform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE1697B3-B91E-326A-4A48-953415117BB3}|CRM_Hotel\\CRM.winforms.csproj|c:\\users\\harisss\\source\\repos\\crm_hotel\\crm_hotel\\ui\\theme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE1697B3-B91E-326A-4A48-953415117BB3}|CRM_Hotel\\CRM.winforms.csproj|solutionrelative:crm_hotel\\ui\\theme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE3E46C7-3706-FC73-63EA-7D11757957A5}|CRM.domain\\CRM.domain.csproj|c:\\users\\harisss\\source\\repos\\crm_hotel\\crm.domain\\discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE3E46C7-3706-FC73-63EA-7D11757957A5}|CRM.domain\\CRM.domain.csproj|solutionrelative:crm.domain\\discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE3E46C7-3706-FC73-63EA-7D11757957A5}|CRM.domain\\CRM.domain.csproj|c:\\users\\harisss\\source\\repos\\crm_hotel\\crm.domain\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE3E46C7-3706-FC73-63EA-7D11757957A5}|CRM.domain\\CRM.domain.csproj|solutionrelative:crm.domain\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE3E46C7-3706-FC73-63EA-7D11757957A5}|CRM.domain\\CRM.domain.csproj|c:\\users\\harisss\\source\\repos\\crm_hotel\\crm.domain\\inquiry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE3E46C7-3706-FC73-63EA-7D11757957A5}|CRM.domain\\CRM.domain.csproj|solutionrelative:crm.domain\\inquiry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE3E46C7-3706-FC73-63EA-7D11757957A5}|CRM.domain\\CRM.domain.csproj|c:\\users\\harisss\\source\\repos\\crm_hotel\\crm.domain\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE3E46C7-3706-FC73-63EA-7D11757957A5}|CRM.domain\\CRM.domain.csproj|solutionrelative:crm.domain\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE3E46C7-3706-FC73-63EA-7D11757957A5}|CRM.domain\\CRM.domain.csproj|c:\\users\\harisss\\source\\repos\\crm_hotel\\crm.domain\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE3E46C7-3706-FC73-63EA-7D11757957A5}|CRM.domain\\CRM.domain.csproj|solutionrelative:crm.domain\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE3E46C7-3706-FC73-63EA-7D11757957A5}|CRM.domain\\CRM.domain.csproj|c:\\users\\harisss\\source\\repos\\crm_hotel\\crm.domain\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE3E46C7-3706-FC73-63EA-7D11757957A5}|CRM.domain\\CRM.domain.csproj|solutionrelative:crm.domain\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE3E46C7-3706-FC73-63EA-7D11757957A5}|CRM.domain\\CRM.domain.csproj|c:\\users\\harisss\\source\\repos\\crm_hotel\\crm.domain\\tenant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE3E46C7-3706-FC73-63EA-7D11757957A5}|CRM.domain\\CRM.domain.csproj|solutionrelative:crm.domain\\tenant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE3E46C7-3706-FC73-63EA-7D11757957A5}|CRM.domain\\CRM.domain.csproj|c:\\users\\harisss\\source\\repos\\crm_hotel\\crm.domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE3E46C7-3706-FC73-63EA-7D11757957A5}|CRM.domain\\CRM.domain.csproj|solutionrelative:crm.domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6983B9-A8ED-E7CA-70E6-CB5657ECB2CA}|CRM.infrastructure\\CRM.infrastructure.csproj|c:\\users\\harisss\\source\\repos\\crm_hotel\\crm.infrastructure\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B6983B9-A8ED-E7CA-70E6-CB5657ECB2CA}|CRM.infrastructure\\CRM.infrastructure.csproj|solutionrelative:crm.infrastructure\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6983B9-A8ED-E7CA-70E6-CB5657ECB2CA}|CRM.infrastructure\\CRM.infrastructure.csproj|c:\\users\\harisss\\source\\repos\\crm_hotel\\crm.infrastructure\\userseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B6983B9-A8ED-E7CA-70E6-CB5657ECB2CA}|CRM.infrastructure\\CRM.infrastructure.csproj|solutionrelative:crm.infrastructure\\userseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6983B9-A8ED-E7CA-70E6-CB5657ECB2CA}|CRM.infrastructure\\CRM.infrastructure.csproj|c:\\users\\harisss\\source\\repos\\crm_hotel\\crm.infrastructure\\currentuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B6983B9-A8ED-E7CA-70E6-CB5657ECB2CA}|CRM.infrastructure\\CRM.infrastructure.csproj|solutionrelative:crm.infrastructure\\currentuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE3E46C7-3706-FC73-63EA-7D11757957A5}|CRM.domain\\CRM.domain.csproj|c:\\users\\harisss\\source\\repos\\crm_hotel\\crm.domain\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE3E46C7-3706-FC73-63EA-7D11757957A5}|CRM.domain\\CRM.domain.csproj|solutionrelative:crm.domain\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE1697B3-B91E-326A-4A48-953415117BB3}|CRM_Hotel\\CRM.winforms.csproj|c:\\users\\harisss\\source\\repos\\crm_hotel\\crm_hotel\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE1697B3-B91E-326A-4A48-953415117BB3}|CRM_Hotel\\CRM.winforms.csproj|solutionrelative:crm_hotel\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE1697B3-B91E-326A-4A48-953415117BB3}|CRM_Hotel\\CRM.winforms.csproj|C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\crm_hotel\\manageguestscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FE1697B3-B91E-326A-4A48-953415117BB3}|CRM_Hotel\\CRM.winforms.csproj|solutionrelative:crm_hotel\\manageguestscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EDFAA6-7ECC-4685-9E3D-2428C9B88C67}|CRM_Hotel\\CRM.winforms.csproj|C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\crm_hotel\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8EDFAA6-7ECC-4685-9E3D-2428C9B88C67}|CRM_Hotel\\CRM.winforms.csproj|solutionrelative:crm_hotel\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EDFAA6-7ECC-4685-9E3D-2428C9B88C67}|CRM_Hotel\\CRM.winforms.csproj|C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\crm_hotel\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8EDFAA6-7ECC-4685-9E3D-2428C9B88C67}|CRM_Hotel\\CRM.winforms.csproj|solutionrelative:crm_hotel\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EDFAA6-7ECC-4685-9E3D-2428C9B88C67}|CRM_Hotel\\CRM.winforms.csproj|C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\crm_hotel\\customerretentioncontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8EDFAA6-7ECC-4685-9E3D-2428C9B88C67}|CRM_Hotel\\CRM.winforms.csproj|solutionrelative:crm_hotel\\customerretentioncontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EDFAA6-7ECC-4685-9E3D-2428C9B88C67}|CRM_Hotel\\CRM.winforms.csproj|C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\crm_hotel\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8EDFAA6-7ECC-4685-9E3D-2428C9B88C67}|CRM_Hotel\\CRM.winforms.csproj|solutionrelative:crm_hotel\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EDFAA6-7ECC-4685-9E3D-2428C9B88C67}|CRM_Hotel\\CRM.winforms.csproj|C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\crm_hotel\\collectpaymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8EDFAA6-7ECC-4685-9E3D-2428C9B88C67}|CRM_Hotel\\CRM.winforms.csproj|solutionrelative:crm_hotel\\collectpaymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EDFAA6-7ECC-4685-9E3D-2428C9B88C67}|CRM_Hotel\\CRM.winforms.csproj|C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\crm_hotel\\checkinoutcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8EDFAA6-7ECC-4685-9E3D-2428C9B88C67}|CRM_Hotel\\CRM.winforms.csproj|solutionrelative:crm_hotel\\checkinoutcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EDFAA6-7ECC-4685-9E3D-2428C9B88C67}|CRM_Hotel\\CRM.winforms.csproj|C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\crm_hotel\\changepasswordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8EDFAA6-7ECC-4685-9E3D-2428C9B88C67}|CRM_Hotel\\CRM.winforms.csproj|solutionrelative:crm_hotel\\changepasswordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EDFAA6-7ECC-4685-9E3D-2428C9B88C67}|CRM_Hotel\\CRM.winforms.csproj|C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\crm_hotel\\bulkpriceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8EDFAA6-7ECC-4685-9E3D-2428C9B88C67}|CRM_Hotel\\CRM.winforms.csproj|solutionrelative:crm_hotel\\bulkpriceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EDFAA6-7ECC-4685-9E3D-2428C9B88C67}|CRM_Hotel\\CRM.winforms.csproj|C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\crm_hotel\\adminplaceholder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8EDFAA6-7ECC-4685-9E3D-2428C9B88C67}|CRM_Hotel\\CRM.winforms.csproj|solutionrelative:crm_hotel\\adminplaceholder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EDFAA6-7ECC-4685-9E3D-2428C9B88C67}|CRM_Hotel\\CRM.winforms.csproj|C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\crm_hotel\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8EDFAA6-7ECC-4685-9E3D-2428C9B88C67}|CRM_Hotel\\CRM.winforms.csproj|solutionrelative:crm_hotel\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE1697B3-B91E-326A-4A48-953415117BB3}|CRM_Hotel\\CRM.winforms.csproj|c:\\users\\harisss\\source\\repos\\crm_hotel\\crm_hotel\\feedbackcontroller.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE1697B3-B91E-326A-4A48-953415117BB3}|CRM_Hotel\\CRM.winforms.csproj|solutionrelative:crm_hotel\\feedbackcontroller.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE1697B3-B91E-326A-4A48-953415117BB3}|CRM_Hotel\\CRM.winforms.csproj|c:\\users\\harisss\\source\\repos\\crm_hotel\\crm_hotel\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE1697B3-B91E-326A-4A48-953415117BB3}|CRM_Hotel\\CRM.winforms.csproj|solutionrelative:crm_hotel\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE1697B3-B91E-326A-4A48-953415117BB3}|CRM_Hotel\\CRM.winforms.csproj|c:\\users\\harisss\\source\\repos\\crm_hotel\\crm_hotel\\dashboardcontroller.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE1697B3-B91E-326A-4A48-953415117BB3}|CRM_Hotel\\CRM.winforms.csproj|solutionrelative:crm_hotel\\dashboardcontroller.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE1697B3-B91E-326A-4A48-953415117BB3}|CRM_Hotel\\CRM.winforms.csproj|c:\\users\\harisss\\source\\repos\\crm_hotel\\crm_hotel\\customerretentioncontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE1697B3-B91E-326A-4A48-953415117BB3}|CRM_Hotel\\CRM.winforms.csproj|solutionrelative:crm_hotel\\customerretentioncontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE1697B3-B91E-326A-4A48-953415117BB3}|CRM_Hotel\\CRM.winforms.csproj|c:\\users\\harisss\\source\\repos\\crm_hotel\\crm_hotel\\customerretentioncontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE1697B3-B91E-326A-4A48-953415117BB3}|CRM_Hotel\\CRM.winforms.csproj|solutionrelative:crm_hotel\\customerretentioncontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE1697B3-B91E-326A-4A48-953415117BB3}|CRM_Hotel\\CRM.winforms.csproj|c:\\users\\harisss\\source\\repos\\crm_hotel\\crm_hotel\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE1697B3-B91E-326A-4A48-953415117BB3}|CRM_Hotel\\CRM.winforms.csproj|solutionrelative:crm_hotel\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE1697B3-B91E-326A-4A48-953415117BB3}|CRM_Hotel\\CRM.winforms.csproj|c:\\users\\harisss\\source\\repos\\crm_hotel\\crm_hotel\\customerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE1697B3-B91E-326A-4A48-953415117BB3}|CRM_Hotel\\CRM.winforms.csproj|solutionrelative:crm_hotel\\customerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE1697B3-B91E-326A-4A48-953415117BB3}|CRM_Hotel\\CRM.winforms.csproj|c:\\users\\harisss\\source\\repos\\crm_hotel\\crm_hotel\\changepasswordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE1697B3-B91E-326A-4A48-953415117BB3}|CRM_Hotel\\CRM.winforms.csproj|solutionrelative:crm_hotel\\changepasswordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE1697B3-B91E-326A-4A48-953415117BB3}|CRM_Hotel\\CRM.winforms.csproj|c:\\users\\harisss\\source\\repos\\crm_hotel\\crm_hotel\\changepasswordform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE1697B3-B91E-326A-4A48-953415117BB3}|CRM_Hotel\\CRM.winforms.csproj|solutionrelative:crm_hotel\\changepasswordform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE1697B3-B91E-326A-4A48-953415117BB3}|CRM_Hotel\\CRM.winforms.csproj|c:\\users\\harisss\\source\\repos\\crm_hotel\\crm_hotel\\adminplaceholder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE1697B3-B91E-326A-4A48-953415117BB3}|CRM_Hotel\\CRM.winforms.csproj|solutionrelative:crm_hotel\\adminplaceholder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE1697B3-B91E-326A-4A48-953415117BB3}|CRM_Hotel\\CRM.winforms.csproj|c:\\users\\harisss\\source\\repos\\crm_hotel\\crm_hotel\\adminplaceholder.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE1697B3-B91E-326A-4A48-953415117BB3}|CRM_Hotel\\CRM.winforms.csproj|solutionrelative:crm_hotel\\adminplaceholder.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6983B9-A8ED-E7CA-70E6-CB5657ECB2CA}|CRM.infrastructure\\CRM.infrastructure.csproj|c:\\users\\harisss\\source\\repos\\crm_hotel\\crm.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B6983B9-A8ED-E7CA-70E6-CB5657ECB2CA}|CRM.infrastructure\\CRM.infrastructure.csproj|solutionrelative:crm.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE3E46C7-3706-FC73-63EA-7D11757957A5}|CRM.domain\\CRM.domain.csproj|c:\\users\\harisss\\source\\repos\\crm_hotel\\crm.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE3E46C7-3706-FC73-63EA-7D11757957A5}|CRM.domain\\CRM.domain.csproj|solutionrelative:crm.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE1697B3-B91E-326A-4A48-953415117BB3}|CRM_Hotel\\CRM.winforms.csproj|C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\crm_hotel\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FE1697B3-B91E-326A-4A48-953415117BB3}|CRM_Hotel\\CRM.winforms.csproj|solutionrelative:crm_hotel\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\Program.cs",
+              "RelativeDocumentMoniker": "CRM_Hotel\\Program.cs",
+              "ToolTip": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\Program.cs",
+              "RelativeToolTip": "CRM_Hotel\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwBUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T11:14:26.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserEditForm.cs",
+              "DocumentMoniker": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\UserEditForm.cs",
+              "RelativeDocumentMoniker": "CRM_Hotel\\UserEditForm.cs",
+              "ToolTip": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\UserEditForm.cs",
+              "RelativeToolTip": "CRM_Hotel\\UserEditForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T04:00:46.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ManageUsersControl.cs",
+              "DocumentMoniker": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\ManageUsersControl.cs",
+              "RelativeDocumentMoniker": "CRM_Hotel\\ManageUsersControl.cs",
+              "ToolTip": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\ManageUsersControl.cs",
+              "RelativeToolTip": "CRM_Hotel\\ManageUsersControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T03:57:15.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\LoginForm.cs",
+              "RelativeDocumentMoniker": "CRM_Hotel\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\LoginForm.cs",
+              "RelativeToolTip": "CRM_Hotel\\LoginForm.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAqwJgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T03:56:48.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ResetPasswordForm.cs",
+              "DocumentMoniker": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\ResetPasswordForm.cs",
+              "RelativeDocumentMoniker": "CRM_Hotel\\ResetPasswordForm.cs",
+              "ToolTip": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\ResetPasswordForm.cs",
+              "RelativeToolTip": "CRM_Hotel\\ResetPasswordForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T03:51:47.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HotelDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM.infrastructure\\HotelDbContext.cs",
+              "RelativeDocumentMoniker": "CRM.infrastructure\\HotelDbContext.cs",
+              "ToolTip": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM.infrastructure\\HotelDbContext.cs",
+              "RelativeToolTip": "CRM.infrastructure\\HotelDbContext.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAA0wC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T02:44:33.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserEditForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\UserEditForm.Designer.cs",
+              "RelativeDocumentMoniker": "CRM_Hotel\\UserEditForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\UserEditForm.Designer.cs",
+              "RelativeToolTip": "CRM_Hotel\\UserEditForm.Designer.cs",
+              "ViewState": "AgIAAAEBAAAAAAAAAAAUwAsBAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T04:00:30.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RoundedButton.cs",
+              "DocumentMoniker": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\UI\\RoundedButton.cs",
+              "RelativeDocumentMoniker": "CRM_Hotel\\UI\\RoundedButton.cs",
+              "ToolTip": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\UI\\RoundedButton.cs",
+              "RelativeToolTip": "CRM_Hotel\\UI\\RoundedButton.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAUwEcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T02:56:53.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CRM.infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM.infrastructure\\CRM.infrastructure.csproj",
+              "RelativeDocumentMoniker": "CRM.infrastructure\\CRM.infrastructure.csproj",
+              "ToolTip": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM.infrastructure\\CRM.infrastructure.csproj",
+              "RelativeToolTip": "CRM.infrastructure\\CRM.infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-24T10:30:39.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserEditForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\UserEditForm.cs",
+              "RelativeDocumentMoniker": "CRM_Hotel\\UserEditForm.cs",
+              "ToolTip": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\UserEditForm.cs [Design]",
+              "RelativeToolTip": "CRM_Hotel\\UserEditForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T04:00:27.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RoundedPanel.cs",
+              "DocumentMoniker": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\UI\\RoundedPanel.cs",
+              "RelativeDocumentMoniker": "CRM_Hotel\\UI\\RoundedPanel.cs",
+              "ToolTip": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\UI\\RoundedPanel.cs",
+              "RelativeToolTip": "CRM_Hotel\\UI\\RoundedPanel.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAwwCgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T02:56:11.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminForm.cs",
+              "DocumentMoniker": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\AdminForm.cs",
+              "RelativeDocumentMoniker": "CRM_Hotel\\AdminForm.cs",
+              "ToolTip": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\AdminForm.cs",
+              "RelativeToolTip": "CRM_Hotel\\AdminForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T10:49:02.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CRM.winforms.csproj",
+              "DocumentMoniker": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\CRM.winforms.csproj",
+              "RelativeDocumentMoniker": "CRM_Hotel\\CRM.winforms.csproj",
+              "ToolTip": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\CRM.winforms.csproj",
+              "RelativeToolTip": "CRM_Hotel\\CRM.winforms.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-28T02:54:32.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CRM.domain.csproj",
+              "DocumentMoniker": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM.domain\\CRM.domain.csproj",
+              "RelativeDocumentMoniker": "CRM.domain\\CRM.domain.csproj",
+              "ToolTip": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM.domain\\CRM.domain.csproj",
+              "RelativeToolTip": "CRM.domain\\CRM.domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-24T10:30:17.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\AdminForm.Designer.cs",
+              "RelativeDocumentMoniker": "CRM_Hotel\\AdminForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\AdminForm.Designer.cs",
+              "RelativeToolTip": "CRM_Hotel\\AdminForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T10:48:41.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RoomEditForm.cs",
+              "DocumentMoniker": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\RoomEditForm.cs",
+              "RelativeDocumentMoniker": "CRM_Hotel\\RoomEditForm.cs",
+              "ToolTip": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\RoomEditForm.cs",
+              "RelativeToolTip": "CRM_Hotel\\RoomEditForm.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAUwJEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T03:48:34.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RoomManagementControl.cs",
+              "DocumentMoniker": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\RoomManagementControl.cs",
+              "RelativeDocumentMoniker": "CRM_Hotel\\RoomManagementControl.cs",
+              "ToolTip": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\RoomManagementControl.cs",
+              "RelativeToolTip": "CRM_Hotel\\RoomManagementControl.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T03:45:16.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RoomManagementControl.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\RoomManagementControl.Designer.cs",
+              "RelativeDocumentMoniker": "CRM_Hotel\\RoomManagementControl.Designer.cs",
+              "ToolTip": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\RoomManagementControl.Designer.cs",
+              "RelativeToolTip": "CRM_Hotel\\RoomManagementControl.Designer.cs",
+              "ViewState": "AgIAAE8BAAAAAAAAAAAQwFUBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T03:45:01.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RoomManagementControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\RoomManagementControl.cs",
+              "RelativeDocumentMoniker": "CRM_Hotel\\RoomManagementControl.cs",
+              "ToolTip": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\RoomManagementControl.cs [Design]",
+              "RelativeToolTip": "CRM_Hotel\\RoomManagementControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T03:44:58.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "InquiryControl.cs",
+              "DocumentMoniker": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\InquiryControl.cs",
+              "RelativeDocumentMoniker": "CRM_Hotel\\InquiryControl.cs",
+              "ToolTip": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\InquiryControl.cs",
+              "RelativeToolTip": "CRM_Hotel\\InquiryControl.cs",
+              "ViewState": "AgIAAI4BAAAAAAAAAAAAAJcBAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T03:42:42.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "InquiryCard.cs",
+              "DocumentMoniker": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\InquiryCard.cs",
+              "RelativeDocumentMoniker": "CRM_Hotel\\InquiryCard.cs",
+              "ToolTip": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\InquiryCard.cs",
+              "RelativeToolTip": "CRM_Hotel\\InquiryCard.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAkwGoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T03:42:32.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GuestHistoryForm.cs",
+              "DocumentMoniker": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\GuestHistoryForm.cs",
+              "RelativeDocumentMoniker": "CRM_Hotel\\GuestHistoryForm.cs",
+              "ToolTip": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\GuestHistoryForm.cs",
+              "RelativeToolTip": "CRM_Hotel\\GuestHistoryForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T03:38:20.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CheckInOutControl.cs",
+              "DocumentMoniker": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\CheckInOutControl.cs",
+              "RelativeDocumentMoniker": "CRM_Hotel\\CheckInOutControl.cs",
+              "ToolTip": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\CheckInOutControl.cs",
+              "RelativeToolTip": "CRM_Hotel\\CheckInOutControl.cs",
+              "ViewState": "AgIAABwCAAAAAAAAAAAAwCwCAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T03:10:10.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BulkPriceForm.cs",
+              "DocumentMoniker": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\BulkPriceForm.cs",
+              "RelativeDocumentMoniker": "CRM_Hotel\\BulkPriceForm.cs",
+              "ToolTip": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\BulkPriceForm.cs",
+              "RelativeToolTip": "CRM_Hotel\\BulkPriceForm.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAQwG0AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T10:51:36.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CheckInOutControl.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\CheckInOutControl.Designer.cs",
+              "RelativeDocumentMoniker": "CRM_Hotel\\CheckInOutControl.Designer.cs",
+              "ToolTip": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\CheckInOutControl.Designer.cs",
+              "RelativeToolTip": "CRM_Hotel\\CheckInOutControl.Designer.cs",
+              "ViewState": "AgIAAA8DAAAAAAAAAAAiwBADAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T10:53:41.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CollectPaymentForm.cs",
+              "DocumentMoniker": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\CollectPaymentForm.cs",
+              "RelativeDocumentMoniker": "CRM_Hotel\\CollectPaymentForm.cs",
+              "ToolTip": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\CollectPaymentForm.cs",
+              "RelativeToolTip": "CRM_Hotel\\CollectPaymentForm.cs",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAswKIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T10:54:30.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CollectPaymentForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\CollectPaymentForm.Designer.cs",
+              "RelativeDocumentMoniker": "CRM_Hotel\\CollectPaymentForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\CollectPaymentForm.Designer.cs",
+              "RelativeToolTip": "CRM_Hotel\\CollectPaymentForm.Designer.cs",
+              "ViewState": "AgIAANEAAAAAAAAAAAAAAOoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T10:54:22.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BulkPriceForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\BulkPriceForm.Designer.cs",
+              "RelativeDocumentMoniker": "CRM_Hotel\\BulkPriceForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\BulkPriceForm.Designer.cs",
+              "RelativeToolTip": "CRM_Hotel\\BulkPriceForm.Designer.cs",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAQwLUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T10:51:25.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Theme.cs",
+              "DocumentMoniker": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\UI\\Theme.cs",
+              "RelativeDocumentMoniker": "CRM_Hotel\\UI\\Theme.cs",
+              "ToolTip": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\UI\\Theme.cs",
+              "RelativeToolTip": "CRM_Hotel\\UI\\Theme.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T02:55:43.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Feedback.cs",
+              "DocumentMoniker": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM.domain\\Feedback.cs",
+              "RelativeDocumentMoniker": "CRM.domain\\Feedback.cs",
+              "ToolTip": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM.domain\\Feedback.cs",
+              "RelativeToolTip": "CRM.domain\\Feedback.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T02:39:26.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Inquiry.cs",
+              "DocumentMoniker": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM.domain\\Inquiry.cs",
+              "RelativeDocumentMoniker": "CRM.domain\\Inquiry.cs",
+              "ToolTip": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM.domain\\Inquiry.cs",
+              "RelativeToolTip": "CRM.domain\\Inquiry.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwBMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T02:39:38.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM.domain\\Payment.cs",
+              "RelativeDocumentMoniker": "CRM.domain\\Payment.cs",
+              "ToolTip": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM.domain\\Payment.cs",
+              "RelativeToolTip": "CRM.domain\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T02:39:10.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Discount.cs",
+              "DocumentMoniker": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM.domain\\Discount.cs",
+              "RelativeDocumentMoniker": "CRM.domain\\Discount.cs",
+              "ToolTip": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM.domain\\Discount.cs",
+              "RelativeToolTip": "CRM.domain\\Discount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T02:39:52.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM.domain\\Reservation.cs",
+              "RelativeDocumentMoniker": "CRM.domain\\Reservation.cs",
+              "ToolTip": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM.domain\\Reservation.cs",
+              "RelativeToolTip": "CRM.domain\\Reservation.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwA4AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T02:38:53.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM.domain\\Room.cs",
+              "RelativeDocumentMoniker": "CRM.domain\\Room.cs",
+              "ToolTip": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM.domain\\Room.cs",
+              "RelativeToolTip": "CRM.domain\\Room.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T02:38:34.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Tenant.cs",
+              "DocumentMoniker": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM.domain\\Tenant.cs",
+              "RelativeDocumentMoniker": "CRM.domain\\Tenant.cs",
+              "ToolTip": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM.domain\\Tenant.cs",
+              "RelativeToolTip": "CRM.domain\\Tenant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T02:41:53.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM.domain\\User.cs",
+              "RelativeDocumentMoniker": "CRM.domain\\User.cs",
+              "ToolTip": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM.domain\\User.cs",
+              "RelativeToolTip": "CRM.domain\\User.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T02:40:01.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM.infrastructure\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "CRM.infrastructure\\PasswordHasher.cs",
+              "ToolTip": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM.infrastructure\\PasswordHasher.cs",
+              "RelativeToolTip": "CRM.infrastructure\\PasswordHasher.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAUwC4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T02:46:34.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "UserSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM.infrastructure\\UserSeeder.cs",
+              "RelativeDocumentMoniker": "CRM.infrastructure\\UserSeeder.cs",
+              "ToolTip": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM.infrastructure\\UserSeeder.cs",
+              "RelativeToolTip": "CRM.infrastructure\\UserSeeder.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAUwCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T02:48:08.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CurrentUser.cs",
+              "DocumentMoniker": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM.infrastructure\\CurrentUser.cs",
+              "RelativeDocumentMoniker": "CRM.infrastructure\\CurrentUser.cs",
+              "ToolTip": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM.infrastructure\\CurrentUser.cs",
+              "RelativeToolTip": "CRM.infrastructure\\CurrentUser.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAUwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T02:46:50.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM.domain\\Customer.cs",
+              "RelativeDocumentMoniker": "CRM.domain\\Customer.cs",
+              "ToolTip": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM.domain\\Customer.cs",
+              "RelativeToolTip": "CRM.domain\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T02:38:13.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "FeedbackController.cs",
+              "DocumentMoniker": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\FeedbackController.cs",
+              "RelativeDocumentMoniker": "CRM_Hotel\\FeedbackController.cs",
+              "ToolTip": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\FeedbackController.cs",
+              "RelativeToolTip": "CRM_Hotel\\FeedbackController.cs",
+              "ViewState": "AgIAADIBAAAAAAAAAAAgwFsBAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T11:00:08.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "FeedbackController.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\FeedbackController.cs",
+              "RelativeDocumentMoniker": "CRM_Hotel\\FeedbackController.cs",
+              "ToolTip": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\FeedbackController.cs [Design]",
+              "RelativeToolTip": "CRM_Hotel\\FeedbackController.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T10:59:50.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "FeedbackController.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\FeedbackController.Designer.cs",
+              "RelativeDocumentMoniker": "CRM_Hotel\\FeedbackController.Designer.cs",
+              "ToolTip": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\FeedbackController.Designer.cs",
+              "RelativeToolTip": "CRM_Hotel\\FeedbackController.Designer.cs",
+              "ViewState": "AgIAAGcBAAAAAAAAAAAwwHwBAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T10:59:57.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ManageGuestsControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\ManageGuestsControl.cs",
+              "RelativeDocumentMoniker": "CRM_Hotel\\ManageGuestsControl.cs",
+              "ToolTip": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\ManageGuestsControl.cs [Design]",
+              "RelativeToolTip": "CRM_Hotel\\ManageGuestsControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T06:58:02.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\DashboardController.cs",
+              "RelativeDocumentMoniker": "CRM_Hotel\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\DashboardController.cs",
+              "RelativeToolTip": "CRM_Hotel\\DashboardController.cs",
+              "ViewState": "AgIAAMIBAAAAAAAAAAAwwNYBAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T10:59:26.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "DashboardController.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\DashboardController.Designer.cs",
+              "RelativeDocumentMoniker": "CRM_Hotel\\DashboardController.Designer.cs",
+              "ToolTip": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\DashboardController.Designer.cs",
+              "RelativeToolTip": "CRM_Hotel\\DashboardController.Designer.cs",
+              "ViewState": "AgIAAH0CAAAAAAAAAAAwwJMCAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T10:59:13.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "DashboardController.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\DashboardController.cs",
+              "RelativeDocumentMoniker": "CRM_Hotel\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\DashboardController.cs [Design]",
+              "RelativeToolTip": "CRM_Hotel\\DashboardController.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T10:59:03.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "CustomerRetentionControl.cs",
+              "DocumentMoniker": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\CustomerRetentionControl.cs",
+              "RelativeDocumentMoniker": "CRM_Hotel\\CustomerRetentionControl.cs",
+              "ToolTip": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\CustomerRetentionControl.cs",
+              "RelativeToolTip": "CRM_Hotel\\CustomerRetentionControl.cs",
+              "ViewState": "AgIAAD0CAAAAAAAAAAAwwEYCAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T10:58:01.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "CustomerRetentionControl.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\CustomerRetentionControl.Designer.cs",
+              "RelativeDocumentMoniker": "CRM_Hotel\\CustomerRetentionControl.Designer.cs",
+              "ToolTip": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\CustomerRetentionControl.Designer.cs",
+              "RelativeToolTip": "CRM_Hotel\\CustomerRetentionControl.Designer.cs",
+              "ViewState": "AgIAAO4BAAAAAAAAAAAwwAcCAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T10:57:51.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "CustomerRetentionControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\CustomerRetentionControl.cs",
+              "RelativeDocumentMoniker": "CRM_Hotel\\CustomerRetentionControl.cs",
+              "ToolTip": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\CustomerRetentionControl.cs [Design]",
+              "RelativeToolTip": "CRM_Hotel\\CustomerRetentionControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T10:57:43.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "CustomerForm.cs",
+              "DocumentMoniker": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\CustomerForm.cs",
+              "RelativeDocumentMoniker": "CRM_Hotel\\CustomerForm.cs",
+              "ToolTip": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\CustomerForm.cs",
+              "RelativeToolTip": "CRM_Hotel\\CustomerForm.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwEkAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T10:56:55.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "CustomerForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\CustomerForm.Designer.cs",
+              "RelativeDocumentMoniker": "CRM_Hotel\\CustomerForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\CustomerForm.Designer.cs",
+              "RelativeToolTip": "CRM_Hotel\\CustomerForm.Designer.cs",
+              "ViewState": "AgIAANYAAAAAAAAAAAAwwO0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T10:56:45.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "CustomerForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\CustomerForm.cs",
+              "RelativeDocumentMoniker": "CRM_Hotel\\CustomerForm.cs",
+              "ToolTip": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\CustomerForm.cs [Design]",
+              "RelativeToolTip": "CRM_Hotel\\CustomerForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T10:56:26.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "CollectPaymentForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\CollectPaymentForm.cs",
+              "RelativeDocumentMoniker": "CRM_Hotel\\CollectPaymentForm.cs",
+              "ToolTip": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\CollectPaymentForm.cs [Design]",
+              "RelativeToolTip": "CRM_Hotel\\CollectPaymentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T10:54:15.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "CheckInOutControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\CheckInOutControl.cs",
+              "RelativeDocumentMoniker": "CRM_Hotel\\CheckInOutControl.cs",
+              "ToolTip": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\CheckInOutControl.cs [Design]",
+              "RelativeToolTip": "CRM_Hotel\\CheckInOutControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T10:53:34.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "ChangePasswordForm.cs",
+              "DocumentMoniker": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\ChangePasswordForm.cs",
+              "RelativeDocumentMoniker": "CRM_Hotel\\ChangePasswordForm.cs",
+              "ToolTip": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\ChangePasswordForm.cs",
+              "RelativeToolTip": "CRM_Hotel\\ChangePasswordForm.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAwwGkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T10:52:54.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "ChangePasswordForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\ChangePasswordForm.Designer.cs",
+              "RelativeDocumentMoniker": "CRM_Hotel\\ChangePasswordForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\ChangePasswordForm.Designer.cs",
+              "RelativeToolTip": "CRM_Hotel\\ChangePasswordForm.Designer.cs",
+              "ViewState": "AgIAANQAAAAAAAAAAAAwwO4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T10:52:44.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ChangePasswordForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\ChangePasswordForm.cs",
+              "RelativeDocumentMoniker": "CRM_Hotel\\ChangePasswordForm.cs",
+              "ToolTip": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\ChangePasswordForm.cs [Design]",
+              "RelativeToolTip": "CRM_Hotel\\ChangePasswordForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T10:52:38.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "BulkPriceForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\BulkPriceForm.cs",
+              "RelativeDocumentMoniker": "CRM_Hotel\\BulkPriceForm.cs",
+              "ToolTip": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\BulkPriceForm.cs [Design]",
+              "RelativeToolTip": "CRM_Hotel\\BulkPriceForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T10:51:20.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "AdminPlaceHolder.cs",
+              "DocumentMoniker": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\AdminPlaceHolder.cs",
+              "RelativeDocumentMoniker": "CRM_Hotel\\AdminPlaceHolder.cs",
+              "ToolTip": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\AdminPlaceHolder.cs",
+              "RelativeToolTip": "CRM_Hotel\\AdminPlaceHolder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T10:50:56.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "AdminPlaceHolder.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\AdminPlaceHolder.Designer.cs",
+              "RelativeDocumentMoniker": "CRM_Hotel\\AdminPlaceHolder.Designer.cs",
+              "ToolTip": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\AdminPlaceHolder.Designer.cs",
+              "RelativeToolTip": "CRM_Hotel\\AdminPlaceHolder.Designer.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAwwGUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T10:50:31.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "AdminPlaceHolder.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\AdminPlaceHolder.cs",
+              "RelativeDocumentMoniker": "CRM_Hotel\\AdminPlaceHolder.cs",
+              "ToolTip": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\AdminPlaceHolder.cs [Design]",
+              "RelativeToolTip": "CRM_Hotel\\AdminPlaceHolder.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T10:50:22.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "AdminForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\AdminForm.cs",
+              "RelativeDocumentMoniker": "CRM_Hotel\\AdminForm.cs",
+              "ToolTip": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\AdminForm.cs [Design]",
+              "RelativeToolTip": "CRM_Hotel\\AdminForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T10:48:24.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM.infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "CRM.infrastructure\\Class1.cs",
+              "ToolTip": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM.infrastructure\\Class1.cs",
+              "RelativeToolTip": "CRM.infrastructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T10:27:41.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM.domain\\Class1.cs",
+              "RelativeDocumentMoniker": "CRM.domain\\Class1.cs",
+              "ToolTip": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM.domain\\Class1.cs",
+              "RelativeToolTip": "CRM.domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T10:22:52.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\Form1.cs",
+              "RelativeDocumentMoniker": "CRM_Hotel\\Form1.cs",
+              "ToolTip": "C:\\Users\\Harisss\\source\\repos\\CRM_Hotel\\CRM_Hotel\\Form1.cs [Design]",
+              "RelativeToolTip": "CRM_Hotel\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T10:13:37.547Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
